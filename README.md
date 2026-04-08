@@ -12,5 +12,5 @@ The HEAD-QA dataset consists of three parts:
 ## 🔗 Download
 
 You can download the full dataset here:  
-**[Download HEAD-QA Dataset at baiduyun](https://pan.baidu.com/s/1tZ6tFzDtz-hA1fFeUKaXUA?pwd=HEAD))**  
+**[Download HEAD-QA Dataset at baiduyun](https://pan.baidu.com/s/1tZ6tFzDtz-hA1fFeUKaXUA?pwd=HEAD)**  
 **[Download HEAD-QA Dataset at 123 cloud](https://www.123865.com/s/pYffvd-Ddo1A)**   
